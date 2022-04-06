@@ -1,0 +1,32 @@
+.Team.style2 {
+    color: white;
+    text-align: left;
+}
+.Team.style2 .Team_member img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.Team.style2 .Team_member h1{
+    color: white;
+    /* text-align: left; */
+}
+
+
+
+.Team{
+    /* background-color: rgb(79, 45, 178); */
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px 0px;
+    color: yellow;
+}
+.Team .Team_member img{
+    width: 300px;
+  
+}
+.Team .Team_member h1{
+    color: white;
+}
